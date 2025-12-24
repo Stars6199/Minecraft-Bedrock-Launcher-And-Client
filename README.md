@@ -19,6 +19,6 @@ A list of 3rd party launchers and clients for Minecraft Bedrock Edition (Windows
 
 | Name | Description | Features | Source |
 | :--- | :--- | :--- | :--- |
-| **Latite** | A high-performance, open-source legit toolkit for Win 10/11. | 30+ mods (Zoom, Motion Blur), JS/TS plugin system, and custom UI. | [GitHub](https://github.com/marioCST/Latite) / [Discord](https://discord.gg/RspeR2MHqQ) |
-| **OderSo** | A community-driven utility mod for Windows Bedrock Edition. | PVP enhancements, performance optimizations, and unique utility mods. | [Discord](https://discord.gg/kVPFvgPmTC) |
-| **Flarial** | A modded client focused on gameplay enhancement and performance. | High-fidelity performance boosts, customization, and DLL-based injection. | [GitHub](https://github.com/flarialmc) / [Discord](https://discord.gg/R82VYmtCt9) |
+| **Latite** | [Placeholder] | [Placeholder] | [GitHub](https://github.com/marioCST/Latite) / [Discord](https://discord.gg/RspeR2MHqQ) |
+| **OderSo** | [Placeholder] | [Placeholder] | [Discord](https://discord.gg/kVPFvgPmTC) |
+| **Flarial** | [Placeholder] | [Placeholder] | [GitHub](https://github.com/flarialmc) / [Discord](https://discord.gg/R82VYmtCt9) |
