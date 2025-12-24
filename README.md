@@ -6,11 +6,11 @@ A list of 3rd party launchers and clients for Minecraft Bedrock Edition (Windows
 
 | Name | Description | Features | Source |
 | :--- | :--- | :--- | :--- |
-| **Levi Launcher (Windows)** | A GDK-based launcher for Minecraft Bedrock on Windows. | Multi-version management, version isolation, and native module loading. | [GitHub](https://github.com/LiteLDev/LeviLauncher) / [Discord](https://discord.gg/fkgsQZeRQV) |
-| **Levi Launcher (Android)** | A launcher designed specifically for the Android version of Bedrock. | APK import, SO module loading, and world/resource backups. | [GitHub](https://github.com/LiteLDev/LeviLaunchroid) / [Discord](https://discord.gg/fkgsQZeRQV) |
-| **MB Loader** | A lightweight utility for running Minecraft on Android devices. | VSync toggle, direct launch shortcuts, and optimized file importing. | [Google Play](https://play.google.com/store/apps/details?id=io.bambosan.mbloader) / [Discord](https://discord.gg/FbSYdPtBYm) |
+| **Levi Launcher (Windows)** | A GDK-based launcher for Minecraft Bedrock on Windows. | Multi-version management, version isolation, mods etc. | [GitHub](https://github.com/LiteLDev/LeviLauncher) / [Discord](https://discord.gg/fkgsQZeRQV) |
+| **Levi Launcher (Android)** | A launcher designed specifically for the Android version of Bedrock. |  Multi-version management, version isolation, mods, multiple xbox account etc. | [GitHub](https://github.com/LiteLDev/LeviLaunchroid) / [Discord](https://discord.gg/fkgsQZeRQV) |
+| **MB Loader** | A lightweight utility for running Minecraft on Android devices. | Support shader, backup & restore data, Q button etc | [Google Play](https://play.google.com/store/apps/details?id=io.bambosan.mbloader) / [Discord](https://discord.gg/FbSYdPtBYm) |
 | **Jiayi Launcher** | A legacy mod manager and version switcher for Windows. | Renderdragon shader support, UI customizability, and version switching. | [GitHub](https://github.com/JiayiSoftware/JiayiLauncher) / [Discord](https://discord.gg/vMYpA6UnKz) |
-| **Project Star** | A C#-based recreation of the Astral Launcher aimed at stability. | Clean UI, cosmetic system integration, and improved reliability. | [Discord](https://discord.gg/nBMvmDdjsg) |
+| **Project Star** | A C#-based recreation of the Astral Launcher aimed at stability. | Clean UI, Version manager, geometry skin pack intregation and improved reliability. | [Discord](https://discord.gg/nBMvmDdjsg) |
 
 ## Clients
 
