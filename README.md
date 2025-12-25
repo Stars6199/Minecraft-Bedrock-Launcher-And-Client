@@ -20,6 +20,7 @@ A list of 3rd party launchers and clients for Minecraft Bedrock Edition (Windows
 | **Atlas Client** | The best client for MCPE. | FPS Boost, custom UI, and various utility mods for Android. | [Website](https://atlasclient.net/) / [Discord](https://discord.gg/atlas-client-1177368741705695292) |
 | **Levi Launcher (Android)** | A dedicated Bedrock launcher for Android. | Multi-version management, version isolation, mods, multiple xbox account etc. | [GitHub](https://github.com/LiteLDev/LeviLaunchroid) / [Discord](https://discord.gg/fkgsQZeRQV) |
 | **MB Loader** | A lightweight utility for running Minecraft on Android. | Support shader, backup & restore data, Q button etc. | [Google Play](https://play.google.com/store/apps/details?id=io.bambosan.mbloader) / [Discord](https://discord.gg/FbSYdPtBYm) |
+| **BlockLauncher** | Source code for BlockLauncher, a launcher that patches Minecraft for Android. | Custom textures, skins, and ModPE scripts. | [GitHub](https://github.com/zhuowei/MCPELauncher) |
 
 ## Clients
 
