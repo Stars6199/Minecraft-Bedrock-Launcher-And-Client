@@ -25,7 +25,7 @@ A list of 3rd party launchers and clients for Minecraft Bedrock Edition (Windows
 
 | Name | Description | Features | Source |
 | :--- | :--- | :--- | :--- |
-| **Latite** | [Placeholder] | [Placeholder] | [GitHub](https://github.com/marioCST/Latite) / [Discord](https://discord.gg/RspeR2MHqQ) |
+| **Latite** | [Placeholder] | [Placeholder] | [GitHub](https://github.com/marioCST/Latite) / [Discord](https://discord.gg/RspeR2MHqQ) / [Website](https://latite.net/) |
 | **OderSo** | [Placeholder] | [Placeholder] | [Discord](https://discord.gg/kVPFvgPmTC) |
 | **Flarial** | [Placeholder] | [Placeholder] | [Website](https://flarial.xyz/) / [GitHub](https://github.com/flarialmc) / [Discord](https://discord.gg/R82VYmtCt9) |
 | **Onix Client** | [Placeholder] | [Placeholder] | [Website](https://onixclient.com/) / [Discord](https://discord.gg/onixclient) |
