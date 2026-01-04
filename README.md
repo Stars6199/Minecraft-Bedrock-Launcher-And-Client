@@ -31,3 +31,9 @@ A list of 3rd party launchers and clients for Minecraft Bedrock Edition (Windows
 | **Flarial** | [Placeholder] | [Placeholder] | [Website](https://flarial.xyz/) / [GitHub](https://github.com/flarialmc) / [Discord](https://discord.gg/R82VYmtCt9) |
 | **Onix Client** | [Placeholder] | [Placeholder] | [Website](https://onixclient.com/) / [Discord](https://discord.gg/onixclient) |
 | **VoidLine** | [Placeholder] | [Placeholder] | [Discord](https://discord.gg/8KZ3qrw5FR) |
+
+## Tools
+| Name | Description | Source |
+| :--- | :--- | :--- |
+| **MCBE Injector | Inject .dll file to Minecraft | - |
+| **Cosmos** | Add every official Cape and legacy skinpack to the game | - |
