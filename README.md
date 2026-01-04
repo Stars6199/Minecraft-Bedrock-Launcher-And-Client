@@ -35,5 +35,5 @@ A list of 3rd party launchers and clients for Minecraft Bedrock Edition (Windows
 ## Tools
 | Name | Description | Source |
 | :--- | :--- | :--- |
-| **MCBE Injector | Inject .dll file to Minecraft | - |
+| **MCBE Injector** | Inject .dll file to Minecraft | - |
 | **Cosmos** | Add every official Cape and legacy skinpack to the game | - |
