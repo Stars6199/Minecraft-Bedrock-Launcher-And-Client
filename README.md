@@ -25,13 +25,13 @@ A curated list of 3rd party launchers, clients, and tools for Minecraft Bedrock 
 
 ## Clients
 
-| Name | Description | Features | Source |
-| :--- | :--- | :--- | :--- |
-| **Latite** | A popular DLL-based modification for Windows. | Clean UI, 30+ customizable mods, and a JavaScript/TypeScript plugin system. | [GitHub](https://github.com/marioCST/Latite) / [Discord](https://discord.gg/RspeR2MHqQ) / [Website](https://latite.net/) |
-| **OderSo** | A legitimate PvP-focused client for Bedrock. | High performance, customizable HUD, and regular version support. | [Discord](https://discord.gg/kVPFvgPmTC) / [Website](https://cdn.odersoclient.com/)|
-| **Flarial** | A feature-rich client inspired by Java's Lunar Client. | Custom UI, FPS optimization, Motion Blur, and Keystrokes. | [Website](https://flarial.xyz/) / [GitHub](https://github.com/flarialmc) / [Discord](https://discord.gg/R82VYmtCt9) |
-| **Onix Client** | One of the most long-standing Bedrock clients. | Item physics, scripting support (paid), and extensive module list. | [Website](https://onixclient.com/) / [Discord](https://discord.gg/onixclient) |
-| **VoidLine** | A utility-heavy client for Windows 10/11. | Innovative "Auto Map Vote" for Hive, FPS presets, and modular UI. | [Discord](https://discord.gg/8KZ3qrw5FR) |
+| Name | Description | Source |
+| :--- | :--- | :--- |
+| **Latite** | [PLACEHOLDER] | [GitHub](https://github.com/marioCST/Latite) / [Discord](https://discord.gg/RspeR2MHqQ) / [Website](https://latite.net/) |
+| **OderSo** | [PLACEHOLDER] | [Discord](https://discord.gg/kVPFvgPmTC) / [Website](https://cdn.odersoclient.com/)|
+| **Flarial** | [PLACEHOLDER] | [Website](https://flarial.xyz/) / [GitHub](https://github.com/flarialmc) / [Discord](https://discord.gg/R82VYmtCt9) |
+| **Onix Client** | [PLACEHOLDER] | [Website](https://onixclient.com/) / [Discord](https://discord.gg/onixclient) |
+| **VoidLine** | [PLACEHOLDER] | [Discord](https://discord.gg/8KZ3qrw5FR) |
 
 ## Tools
 
